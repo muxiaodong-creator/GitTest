@@ -15,5 +15,7 @@ public class config {
 
     private Integer num;
 
+    private Integer money;
+
 
 }
