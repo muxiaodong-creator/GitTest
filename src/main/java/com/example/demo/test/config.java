@@ -13,5 +13,7 @@ public class config {
 
     private  String name;
 
+    private Integer num;
+
 
 }
